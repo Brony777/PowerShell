@@ -1,0 +1,6 @@
+12.0
+4
+1	SQLCHAR	0	50	"|"	1	Column1	""
+2	SQLCHAR	0	50	"|"	2	Column2	""
+3	SQLCHAR	0	50	"|"	3	Column3	""
+4	SQLCHAR	0	50	"\n"	4	Column4	""
